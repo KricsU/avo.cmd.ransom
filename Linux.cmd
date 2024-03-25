@@ -1,5 +1,3 @@
-msg * Oops, your files has being destroyed!
-msg * We are BlackBastardsX, We dont forgive
 cls
 echo  -Oops your files has being destroyed!
 echo  -What happened? your pc is being formatted by this ransomware and all of your data is lost.
